@@ -1,7 +1,3 @@
-# Filippe Andrade Monteiro
-
-| Desenvolvedor Front-End | Fortaleza - CE | (85) 9.9642-6669 | <filippemonteiro@outlook.com> | [Site](https://filippemonteiro.github.io/) | [GitHub](https://github.com/filippemonteiro) | [LinkedIn](https://linkedin.com/in/filippemonteiro) |
-
 ## 👋 Sobre Mim
 
 Desenvolvedor Front-End com background em Design, apaixonado por criar interfaces acessíveis, responsivas e centradas no usuário. Estou finalizando formações Full Stack (React, Node.js, APIs, Testes) e busco uma oportunidade de estágio ou vaga júnior para aplicar e expandir meus conhecimentos.
