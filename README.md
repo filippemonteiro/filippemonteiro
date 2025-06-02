@@ -26,7 +26,7 @@ Desenvolvedor Front-End com background em Design, apaixonado por criar interface
 * **Descrição:** Projeto em equipe desenvolvido durante o Geração Tech 2.0. Implementei a navbar responsiva, funcionalidades de login/logout, carrinho de compras, menu mobile, página de produtos e de confirmação de compra. Colaborei em testes de usabilidade e correções de bugs.
 * **Stack:** React.js, Tailwind CSS, Supabase
 * **GitHub:** [github.com/ArthurDiogenes/drip-store](https://github.com/ArthurDiogenes/drip-store)
-* **Deploy:** [drip-store-eta.vercel.app](https://drip-store-eta.vercel.app)
+* **Deploy:** [drip-store-chi-ruddy.vercel.app](https://drip-store-chi-ruddy.vercel.app/)
 
 ### Designar - Plataforma de Revitalização Urbana Digital
 * **Descrição:** Projeto individual para a Agência Experimental de Design da UniFanor. Idealizei e desenvolvi integralmente o site (UX/UI, Front-End) para uma plataforma de revitalização urbana, apresentando podcast, app e comunidade criativa.
